@@ -1,3 +1,4 @@
+#install
 <a id="Top"></a>
 
 # Compilation instructions
